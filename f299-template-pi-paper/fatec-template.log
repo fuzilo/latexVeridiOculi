@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  11 NOV 2024 07:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  11 NOV 2024 14:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1187,6 +1187,16 @@ Package biblatex Warning: Biber reported the following issues
 (biblatex)                with 'agenda2030':
 (biblatex)                - online entry 'agenda2030' (fatec-article.bib): Invalid format '01 de junho de 2023' of date field 'urldate' - ignoring.
 
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'embrapa_agroenergia':
+(biblatex)                - online entry 'embrapa_agroenergia' (fatec-article.bib): Invalid format '02 de maio de 2024' of date field 'urldate' - ignoring.
+
+
+Package biblatex Warning: Biber reported the following issues
+(biblatex)                with 'netflora':
+(biblatex)                - online entry 'netflora' (fatec-article.bib): Invalid format '02 de maio de 2024' of date field 'urldate' - ignoring.
+
 )
 Package biblatex Info: Reference section=0 on input line 39.
 Package biblatex Info: Reference segment=0 on input line 39.
@@ -1291,42 +1301,30 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) (Topicos/estadodaarte.tex [3{C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]) (Topicos/metodologia.tex) (Topicos/resultados.tex
-Package hyperref Info: bookmark level for unknown graph defaults to 0 on input line 14.
-<./Illustrations/grph-example.png, id=92, 176.076pt x 135.999pt>
-File: ./Illustrations/grph-example.png Graphic file (type png)
-<use ./Illustrations/grph-example.png>
-Package pdftex.def Info: ./Illustrations/grph-example.png  used on input line 16.
-(pdftex.def)             Requested size: 348.26233pt x 269.0132pt.
+) (Topicos/estadodaarte.tex [3{C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]) (Topicos/metodologia.tex [4]) (Topicos/resultados.tex [5]
+<Illustrations/grph-question2.png, id=114, 587.19376pt x 639.13782pt>
+File: Illustrations/grph-question2.png Graphic file (type png)
+<use Illustrations/grph-question2.png>
+Package pdftex.def Info: Illustrations/grph-question2.png  used on input line 11.
+(pdftex.def)             Requested size: 241.84843pt x 263.23799pt.
+<Illustrations/pizza2.png, id=116, 732.48656pt x 642.90187pt>
+File: Illustrations/pizza2.png Graphic file (type png)
+<use Illustrations/pizza2.png>
+Package pdftex.def Info: Illustrations/pizza2.png  used on input line 22.
+(pdftex.def)             Requested size: 314.40001pt x 275.95192pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package hyperref Info: bookmark level for unknown flowchart defaults to 0 on input line 24.
-<./Illustrations/fcht-ex-algorithm.png, id=95, 736.7525pt x 1384.17125pt>
-File: ./Illustrations/fcht-ex-algorithm.png Graphic file (type png)
-<use ./Illustrations/fcht-ex-algorithm.png>
-Package pdftex.def Info: ./Illustrations/fcht-ex-algorithm.png  used on input line 26.
-(pdftex.def)             Requested size: 294.69577pt x 553.6587pt.
-[4]
-<example-image-duck.pdf, id=111, 184.55048pt x 114.2107pt>
-File: example-image-duck.pdf Graphic file (type pdf)
-<use example-image-duck.pdf>
-Package pdftex.def Info: example-image-duck.pdf  used on input line 36.
-(pdftex.def)             Requested size: 221.45946pt x 137.05212pt.
-Package hyperref Info: bookmark level for unknown photograph defaults to 0 on input line 45.
-<Illustrations/fachada-fatec.jpg, id=113, 1003.75pt x 735.74875pt>
-File: Illustrations/fachada-fatec.jpg Graphic file (type jpg)
-<use Illustrations/fachada-fatec.jpg>
-Package pdftex.def Info: Illustrations/fachada-fatec.jpg  used on input line 47.
-(pdftex.def)             Requested size: 348.26233pt x 255.28181pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[5 <./Illustrations/grph-example.png (PNG copy)> <C:/Users/fuzil/AppData/Local/Programs/MiKTeX/tex/latex/duckuments/example-image-duck.pdf>] [6 <./Illustrations/fcht-ex-algorithm.png>]
-Package hyperref Info: bookmark level for unknown tabframed defaults to 0 on input line 84.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 117.
+[6 <./Illustrations/grph-question2.png>] [7 <./Illustrations/pizza2.png>]
+<Illustrations/Figure_1.png, id=135, 462.528pt x 346.896pt>
+File: Illustrations/Figure_1.png Graphic file (type png)
+<use Illustrations/Figure_1.png>
+Package pdftex.def Info: Illustrations/Figure_1.png  used on input line 66.
+(pdftex.def)             Requested size: 338.58632pt x 253.95184pt.
+) (Topicos/conclusao.tex)
+Package cleveref Info: loaded `brazilian' language definitions on input line 76.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 76.
  (C:\Users\fuzil\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1334,29 +1332,22 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [7 <./Illustrations/fachada-fatec.jpg>]) (Topicos/conclusao.tex)
+Package cleveref Info: loaded `brazilian' language definitions on input line 76.
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 76.
+ [8 <./Illustrations/Figure_1.png>]
 Package cleveref Info: loaded `brazilian' language definitions on input line 76.
 Package cleveref Info: loaded `brazilian' language definitions on input line 76.
 Package cleveref Info: loaded `brazilian' language definitions on input line 76.
 Package cleveref Info: loaded `brazilian' language definitions on input line 76.
 Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
- [8{C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 76.
- (C:\Users\fuzil\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
-File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (C:\Users\fuzil\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
-)
+ [9]
 Package cleveref Info: loaded `brazilian' language definitions on input line 76.
 Package cleveref Info: loaded `brazilian' language definitions on input line 76.
 Package cleveref Info: loaded `brazilian' language definitions on input line 76.
 Package cleveref Info: loaded `brazilian' language definitions on input line 76.
 Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
- [9] (fatec-template.aux
+ [10] (fatec-template.aux
 Package cleveref Info: loaded `brazilian' language definitions on input line 15.
 Package cleveref Info: loaded `brazilian' language definitions on input line 16.
 Package cleveref Info: loaded `brazilian' language definitions on input line 17.
@@ -1366,43 +1357,41 @@ Package cleveref Info: loaded `brazilian' language definitions on input line 20.
 Package cleveref Info: loaded `brazilian' language definitions on input line 21.
 Package cleveref Info: loaded `english' language definitions on input line 22.
 Package cleveref Info: loaded `brazilian' language definitions on input line 23.
-Package cleveref Info: loaded `brazilian' language definitions on input line 129.
-Package cleveref Info: loaded `brazilian' language definitions on input line 130.
+Package cleveref Info: loaded `brazilian' language definitions on input line 125.
+Package cleveref Info: loaded `brazilian' language definitions on input line 126.
 Package cleveref Info: loaded `brazilian' language definitions on input line 134.
 Package cleveref Info: loaded `brazilian' language definitions on input line 135.
-Package cleveref Info: loaded `brazilian' language definitions on input line 136.
 Package cleveref Info: loaded `brazilian' language definitions on input line 137.
+Package cleveref Info: loaded `brazilian' language definitions on input line 138.
+Package cleveref Info: loaded `brazilian' language definitions on input line 146.
 Package cleveref Info: loaded `brazilian' language definitions on input line 147.
-Package cleveref Info: loaded `brazilian' language definitions on input line 148.
 Package cleveref Info: loaded `brazilian' language definitions on input line 149.
 Package cleveref Info: loaded `brazilian' language definitions on input line 150.
 Package cleveref Info: loaded `brazilian' language definitions on input line 152.
 Package cleveref Info: loaded `brazilian' language definitions on input line 153.
-Package cleveref Info: loaded `brazilian' language definitions on input line 154.
-Package cleveref Info: loaded `brazilian' language definitions on input line 155.
 )
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `fatec-template.out' has not changed.
-(rerunfilecheck)             Checksum: C97D7179C8455408BF40BFC3FF2736F0;236.
+(rerunfilecheck)             Checksum: F6375376201B9393B07FA1E3C38C66BD;236.
 Package logreq Info: Writing requests to 'fatec-template.run.xml'.
 \openout1 = `fatec-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34333 strings out of 474486
- 623688 string characters out of 5743754
+ 34151 strings out of 474486
+ 620021 string characters out of 5743754
  1946542 words of memory out of 5000000
- 55943 multiletter control sequences out of 15000+600000
- 615573 words of font info for 156 fonts, out of 8000000 for 9000
+ 55778 multiletter control sequences out of 15000+600000
+ 608091 words of font info for 145 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,19n,131p,1904b,4558s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
-Output written on fatec-template.pdf (9 pages, 618023 bytes).
+<C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on fatec-template.pdf (10 pages, 395068 bytes).
 PDF statistics:
- 236 PDF objects out of 1000 (max. 8388607)
+ 212 PDF objects out of 1000 (max. 8388607)
  47 named destinations out of 1000 (max. 500000)
- 26154 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 26149 words of extra memory for PDF output out of 29859 (max. 10000000)
 
