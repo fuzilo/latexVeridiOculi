@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber fatec-template"] 1731344513.6527 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1731344886.02267 0
+["biber fatec-template"] 1731344513.6527 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1731345169.52681 0
   "fatec-article.bib" 1731338079 15232 3b93c0bc6face508a2c10224bef6860c ""
-  "fatec-template.bcf" 1731344885 115275 80fa73f255c9fc17489d919adb64d85f "pdflatex"
+  "fatec-template.bcf" 1731345169 115275 80fa73f255c9fc17489d919adb64d85f "pdflatex"
   (generated)
   "fatec-template.bbl"
   "fatec-template.blg"
   (rewritten before read)
-["pdflatex"] 1731344881.80396 "c:/Users/fuzil/Desktop/Projeto Integrador 2024-2/latexVeridiOculi/f299-template-pi-paper/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1731344886.02352 0
+["pdflatex"] 1731345165.10444 "c:/Users/fuzil/Desktop/Projeto Integrador 2024-2/latexVeridiOculi/f299-template-pi-paper/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1731345169.52765 0
   "C:/Users/fuzil/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731316666 122199 f0a029dcadf437d1491ad2875c164ac4 ""
   "C:/Users/fuzil/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1731316536 24225047 6497c051614503ff92f4076afdbb131b ""
   "C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -193,7 +193,7 @@
   "Illustrations/fatec.jpg" 1731316301 52462 b72184f489d14cab2f4098401c2496e6 ""
   "Illustrations/grph-question2.png" 1717368368 47921 bb211e61f78fb6f311265ce31be12619 ""
   "Illustrations/pizza2.png" 1717368410 48604 cad3d655d837c1e13c2bc00e93dbf897 ""
-  "Topicos/conclusao.tex" 1731344872 1454 02c7c51a521113ad75e903692d933faf ""
+  "Topicos/conclusao.tex" 1731345164 1534 48edfb8c7f32d003b7f76551faa75f00 ""
   "Topicos/estadodaarte.tex" 1731324257 2441 c41be1d44cf5673b6042ee590ecc960b ""
   "Topicos/introducao.tex" 1731319370 5631 52e122eb3be8b19cb915d1ce131ac087 ""
   "Topicos/metodologia.tex" 1731338583 6795 7949b1c2d1af80e2171f2bfb9c3816a0 ""
@@ -202,10 +202,10 @@
   "c:/Users/fuzil/Desktop/Projeto Integrador 2024-2/latexVeridiOculi/f299-template-pi-paper/fatec-template.tex" 1731317490 5124 d43da194ea5a155b8a50a54bd06b2b1d ""
   "fatec-article.bib" 1731338079 15232 3b93c0bc6face508a2c10224bef6860c ""
   "fatec-article.sty" 1731317990 46737 e506a0f6857257ba317ce49df053ef3e ""
-  "fatec-template.aux" 1731344885 7409 ee6df39551b83484b4283bac1111787e "pdflatex"
+  "fatec-template.aux" 1731345168 7409 ee6df39551b83484b4283bac1111787e "pdflatex"
   "fatec-template.bbl" 1731344516 28084 a56eba370f93acedb232697236c98f33 "biber fatec-template"
-  "fatec-template.out" 1731344885 236 f6375376201b9393b07fa1e3c38c66bd "pdflatex"
-  "fatec-template.run.xml" 1731344885 2617 4d46f5d56bcd78c60e0607a558d03956 "pdflatex"
+  "fatec-template.out" 1731345169 236 f6375376201b9393b07fa1e3c38c66bd "pdflatex"
+  "fatec-template.run.xml" 1731345169 2617 4d46f5d56bcd78c60e0607a558d03956 "pdflatex"
   "fatec-template.tex" 1731317490 5124 d43da194ea5a155b8a50a54bd06b2b1d ""
   (generated)
   "fatec-template.aux"
