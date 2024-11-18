@@ -1,0 +1,11 @@
+\babel@toc {brazilian}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {brazilian}{}\relax 
+\setlength {\parskip }{\z@ plus\p@ }\listsfontsize 
+\contentsline {section}{Banco de Dados}{3}{section*.2}%
+\contentsline {section}{Interface gráfica}{3}{section*.4}%
+\contentsline {section}{Algoritmo de Ordenação}{7}{section*.11}%
+\contentsline {section}{Modelo de Aprendizagem FCNN}{7}{section*.13}%
+\contentsline {section}{Aplicação Mobile}{10}{section*.14}%
