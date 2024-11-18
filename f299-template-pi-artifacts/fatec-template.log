@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  18 NOV 2024 01:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  18 NOV 2024 13:32
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -1467,40 +1467,40 @@ LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
 \openout6 = `fatec-template.toc'.
 
  [2]
-<Logos/modelagem_nosql.png, id=49, 530.73282pt x 567.62062pt>
+<Logos/modelagem_nosql.png, id=59, 530.73282pt x 567.62062pt>
 File: Logos/modelagem_nosql.png Graphic file (type png)
 <use Logos/modelagem_nosql.png>
 Package pdftex.def Info: Logos/modelagem_nosql.png  used on input line 55.
 (pdftex.def)             Requested size: 338.58632pt x 362.12401pt.
-<Logos/1.jpg, id=51, 631.60968pt x 431.36156pt>
+<Logos/1.jpg, id=61, 631.60968pt x 431.36156pt>
 File: Logos/1.jpg Graphic file (type jpg)
 <use Logos/1.jpg>
 Package pdftex.def Info: Logos/1.jpg  used on input line 68.
 (pdftex.def)             Requested size: 338.58632pt x 231.24019pt.
  [3 <./Logos/modelagem_nosql.png>]
-<Logos/tela_pós-login.png, id=58, 1284.8pt x 722.7pt>
+<Logos/tela_pós-login.png, id=68, 1284.8pt x 722.7pt>
 File: Logos/tela_pós-login.png Graphic file (type png)
 <use Logos/tela_pós-login.png>
 Package pdftex.def Info: Logos/tela_pós-login.png  used on input line 78.
 (pdftex.def)             Requested size: 338.58632pt x 190.45595pt.
-<Logos/tela_configurações2.png, id=59, 1284.8pt x 722.7pt>
+<Logos/tela_configurações2.png, id=69, 1284.8pt x 722.7pt>
 File: Logos/tela_configurações2.png Graphic file (type png)
 <use Logos/tela_configurações2.png>
 Package pdftex.def Info: Logos/tela_configurações2.png  used on input line 88.
 (pdftex.def)             Requested size: 338.58632pt x 190.45595pt.
  [4 <./Logos/1.jpg> <./Logos/tela_pós-login.png>]
-<Logos/tela_configurações.png, id=67, 1284.8pt x 722.7pt>
+<Logos/tela_configurações.png, id=77, 1284.8pt x 722.7pt>
 File: Logos/tela_configurações.png Graphic file (type png)
 <use Logos/tela_configurações.png>
 Package pdftex.def Info: Logos/tela_configurações.png  used on input line 98.
 (pdftex.def)             Requested size: 338.58632pt x 190.45595pt.
-<Logos/tela_subir_imagem.png, id=68, 1284.8pt x 722.7pt>
+<Logos/tela_subir_imagem.png, id=78, 1284.8pt x 722.7pt>
 File: Logos/tela_subir_imagem.png Graphic file (type png)
 <use Logos/tela_subir_imagem.png>
 Package pdftex.def Info: Logos/tela_subir_imagem.png  used on input line 108.
 (pdftex.def)             Requested size: 483.69687pt x 272.0815pt.
  [5 <./Logos/tela_configurações2.png> <./Logos/tela_configurações.png>]
-<Logos/tela_diagnostico_detalhado_novo.png, id=77, 1284.8pt x 722.7pt>
+<Logos/tela_diagnostico_detalhado_novo.png, id=87, 1284.8pt x 722.7pt>
 File: Logos/tela_diagnostico_detalhado_novo.png Graphic file (type png)
 <use Logos/tela_diagnostico_detalhado_novo.png>
 Package pdftex.def Info: Logos/tela_diagnostico_detalhado_novo.png  used on input line 117.
@@ -1552,36 +1552,43 @@ Package microtype Info: Character `texttrademark ' is missing
 (microtype)             in font `TS1/lmtt/m/n/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
  [8{C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
-<Logos/caso-de-uso-mobile.png, id=163, 743.02594pt x 488.57532pt>
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 274.
+
+<Logos/caso-de-uso-mobile.png, id=173, 743.02594pt x 488.57532pt>
 File: Logos/caso-de-uso-mobile.png Graphic file (type png)
 <use Logos/caso-de-uso-mobile.png>
-Package pdftex.def Info: Logos/caso-de-uso-mobile.png  used on input line 278.
+Package pdftex.def Info: Logos/caso-de-uso-mobile.png  used on input line 281.
 (pdftex.def)             Requested size: 290.22107pt x 190.83435pt.
- [9]
-<Logos/mobile-tela1.png, id=207, 283.0575pt x 610.53094pt>
+[9]
+<Logos/mobile-tela1.png, id=217, 283.0575pt x 610.53094pt>
 File: Logos/mobile-tela1.png Graphic file (type png)
 <use Logos/mobile-tela1.png>
-Package pdftex.def Info: Logos/mobile-tela1.png  used on input line 286.
-(pdftex.def)             Requested size: 145.11053pt x 312.99695pt.
-<Logos/mobile-tela2.png, id=208, 285.31593pt x 615.0478pt>
+Package pdftex.def Info: Logos/mobile-tela1.png  used on input line 291.
+(pdftex.def)             Requested size: 120.92421pt x 260.81836pt.
+<Logos/mobile-tela2.png, id=218, 285.31593pt x 615.0478pt>
 File: Logos/mobile-tela2.png Graphic file (type png)
 <use Logos/mobile-tela2.png>
-Package pdftex.def Info: Logos/mobile-tela2.png  used on input line 294.
-(pdftex.def)             Requested size: 145.11053pt x 312.80682pt.
+Package pdftex.def Info: Logos/mobile-tela2.png  used on input line 301.
+(pdftex.def)             Requested size: 120.92421pt x 260.67392pt.
  [10 <./Logos/caso-de-uso-mobile.png> <./Logos/mobile-tela1.png>]
-<Logos/mobile-tela3.png, id=217, 236.38312pt x 509.65407pt>
+<Logos/mobile-tela3.png, id=227, 236.38312pt x 509.65407pt>
 File: Logos/mobile-tela3.png Graphic file (type png)
 <use Logos/mobile-tela3.png>
-Package pdftex.def Info: Logos/mobile-tela3.png  used on input line 302.
-(pdftex.def)             Requested size: 145.11053pt x 312.87158pt.
- [11 <./Logos/mobile-tela2.png>]
-<Logos/mobile-tela4.png, id=224, 234.1247pt x 511.9125pt>
+Package pdftex.def Info: Logos/mobile-tela3.png  used on input line 310.
+(pdftex.def)             Requested size: 120.92421pt x 260.72113pt.
+<Logos/mobile-tela4.png, id=228, 234.1247pt x 511.9125pt>
 File: Logos/mobile-tela4.png Graphic file (type png)
 <use Logos/mobile-tela4.png>
-Package pdftex.def Info: Logos/mobile-tela4.png  used on input line 310.
-(pdftex.def)             Requested size: 145.11053pt x 317.29655pt.
- [12 <./Logos/mobile-tela3.png>] [13 <./Logos/mobile-tela4.png>]
-runsystem(latexminted cleantemp  --timestamp 20241118013527 EE4D7944BBD7AEEE041C532594789EA0)...executed.
+Package pdftex.def Info: Logos/mobile-tela4.png  used on input line 318.
+(pdftex.def)             Requested size: 120.92421pt x 264.40727pt.
+ [11 <./Logos/mobile-tela2.png> <./Logos/mobile-tela3.png>] [12 <./Logos/mobile-tela4.png>]
+Package microtype Info: Character `texttrademark ' is missing
+(microtype)             in font `TS1/lmtt/m/it/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+ [13] [14] [15]
+runsystem(latexminted cleantemp  --timestamp 20241118133230 EE4D7944BBD7AEEE041C532594789EA0)...executed.
 
  (fatec-template.aux
 Package cleveref Info: loaded `brazilian' language definitions on input line 9.
@@ -1599,23 +1606,23 @@ L3 programming layer <2020/03/25>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `fatec-template.out' has not changed.
-(rerunfilecheck)             Checksum: 1A12999DB4DC5D8238BC5B398C9F95A2;955.
+(rerunfilecheck)             Checksum: BBA1CF5B94344E7C969F419D095A1FE0;1426.
 Package logreq Info: Writing requests to 'fatec-template.run.xml'.
 \openout1 = `fatec-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39809 strings out of 474486
- 755064 string characters out of 5743754
- 2212542 words of memory out of 5000000
- 61386 multiletter control sequences out of 15000+600000
- 604021 words of font info for 109 fonts, out of 8000000 for 9000
+ 39981 strings out of 474486
+ 757362 string characters out of 5743754
+ 2254542 words of memory out of 5000000
+ 61450 multiletter control sequences out of 15000+600000
+ 604792 words of font info for 114 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  87i,13n,131p,1806b,4534s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/NewTXMI.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtti10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txmiaX.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txsys.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb>
-Output written on fatec-template.pdf (13 pages, 4771644 bytes).
+Output written on fatec-template.pdf (15 pages, 4808818 bytes).
 PDF statistics:
- 318 PDF objects out of 1000 (max. 8388607)
- 132 named destinations out of 1000 (max. 500000)
- 22645 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 456 PDF objects out of 1000 (max. 8388607)
+ 231 named destinations out of 1000 (max. 500000)
+ 23173 words of extra memory for PDF output out of 24883 (max. 10000000)
 

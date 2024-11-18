@@ -42,7 +42,7 @@
 
 %exemplo da forma de organização das seções e subseções, você deverá adaptar o template para a realidade do seu projeto.
 
-\subsection*{Banco de Dados}
+\section*{Banco de Dados}
 \addcontentsline{toc}{section}{Banco de Dados}
 
     Para a implementação do sistema, foram desenvolvidos o Modelo Lógico(Figura 1) do banco de dados não-relacional do aplicativo, que inclui uma base de dados das imagens a serem analisadas pelo sistema, assim como uma base de dados dos clientes cadastrados e  o diagnóstico realizado pelo sistema, apontando quais espécies foram identificadas em uma determinada imagem.
@@ -56,7 +56,7 @@
     \SourceOrNote{Fonte: Os Autores(2023)}
 \end{figure}
 
-\subsection*{Interface gráfica}
+\section*{Interface gráfica}
 \addcontentsline{toc}{section}{Interface gráfica}
 
 Utilizando a interface gráfica em Java, foi desenvolvido o sistema de Acesso do Usuário, bem como a funcionalidade do CRUD, onde é possível cadastrar,listar, alterar e excluir usuários do sistema.
@@ -122,7 +122,7 @@ O protótipo de tela de carregamento de uma nova imagem para análise leva em co
 Após a análise feita pelo modelo treinado, será possível buscar as espécies de árvores encontradas na foto.
 
 
-\subsection*{Algoritmo de Ordenação}
+\section*{Algoritmo de Ordenação}
 \addcontentsline{toc}{section}{Algoritmo de Ordenação}
     
 
@@ -269,8 +269,11 @@ plt.show()
 \end{lstlisting}
 
 
-\section*{Aplicação Mobile}
+\section*{Aplicação Mobile - Protótipo da aplicação}
 \addcontentsline{toc}{section}{Aplicação Mobile}
+\addcontentsline{toc}{subsection}{Protótipo da aplicação}
+
+Desenvolvimento de aplicação mobile para geração e visualização de relatórios com base nas análises criadas com o modelo de identificação.
 
 \begin{figure}[H]
     \centering
@@ -280,36 +283,154 @@ plt.show()
     \label{fig:mobile1}
 \end{figure}
 
+O diagrama da figura 8, demonstra de forma simplificada os casos de uso da aplicação mobile.
+
 \begin{figure}[H]
     \centering
     \caption{Tela de entrada - Mobile}
-    \includegraphics[width=.3\textwidth,keepaspectratio]{Logos/mobile-tela1.png}
+    \includegraphics[width=.25\textwidth,keepaspectratio]{Logos/mobile-tela1.png}
     \SourceOrNote{Fonte: Os Autores(2024)}
     \label{fig:mobile1}
 \end{figure}
+
+A tela de entrada (figura 9), utiliza os mesmos padrões de tipografia e cores aplicados na versão web.
 
 \begin{figure}[H]
     \centering
     \caption{Tela de Análises - Mobile}
-    \includegraphics[width=.3\textwidth,keepaspectratio]{Logos/mobile-tela2.png}
-    \SourceOrNote{Fonte: Os Autores(2024)}
+    \includegraphics[width=.25\textwidth,keepaspectratio]{Logos/mobile-tela2.png}    \SourceOrNote{Fonte: Os Autores(2024)}
     \label{fig:mobile1}
 \end{figure}
+
+Feito o login, o usuário tem à sua disposição as análises realizadas anteriormente.
 
 \begin{figure}[H]
     \centering
     \caption{Tela de Nova Análise - Mobile}
-    \includegraphics[width=.3\textwidth,keepaspectratio]{Logos/mobile-tela3.png}
+    \includegraphics[width=.25\textwidth,keepaspectratio]{Logos/mobile-tela3.png}
+    \SourceOrNote{Fonte: Os Autores(2024)}
+    \label{fig:mobile1}
+\end{figure}
+O usuário pode também solicitar uma nova análise. Devendo para tal, inserir uma imagem e solicitar a identificação das espécies de árvores.
+\begin{figure}[H]
+    \centering
+    \caption{Tela de Relatório - Mobile}
+    \includegraphics[width=.25\textwidth,keepaspectratio]{Logos/mobile-tela4.png}
     \SourceOrNote{Fonte: Os Autores(2024)}
     \label{fig:mobile1}
 \end{figure}
 
-\begin{figure}[H]
-    \centering
-    \caption{Tela de Relatório - Mobile}
-    \includegraphics[width=.3\textwidth,keepaspectratio]{Logos/mobile-tela4.png}
-    \SourceOrNote{Fonte: Os Autores(2024)}
-    \label{fig:mobile1}
-\end{figure}
+Ao selecionar uma análise já processada, será disponibilizado o relatório de identificação das espécies encontradas na imagem disponibilizada pelo usuário. Nele constará informações sobre a espécie encontrada, e as marcações onde foram identificadas as espécies e outras informações como acurácia e posição na foto.
+
+\subsection*{API para comunicação com recursos em nuvem}
+\addcontentsline{toc}{subsection}{API para comunicação com recursos em nuvem}
+
+Para fazer a comunicação com os recursos em nuvem como banco de dados, Storage Services e API generativa de textos, foi desenvolvido uma API em Python, hospedada em um EC2 (Elastic Computing Cloud) na AWS.
+
+\begin{lstlisting}[language=Python, caption={API para gera\c{c}\~ao de relat\'{o}rios e intera\c{c}\~ao com S3}]
+
+    import boto3
+    import json
+    import openai
+    from flask import Blueprint, jsonify, request
+    from dotenv import load_dotenv
+    import os
+    from app.services.genAnalise import genAnalise
+    from app.services.s3_service import fetch_json_data
+    
+    load_dotenv()
+    bp = Blueprint('analysis', __name__)
+    
+    # key = "analise01.json"
+    s3 = boto3.client(
+        's3',
+        aws_access_key_id=os.getenv("AWS_ACCESS_KEY_ID"),
+        aws_secret_access_key=os.getenv("AWS_SECRET_ACCESS_KEY")
+    )
+
+    openai.api_key = os.getenv("OPENAI_API_KEY")
+    BUCKET_ANALISES = os.getenv("BUCKET_ANALISES")
+    BUCKET_RELATORIO = os.getenv("BUCKET_RELATORIO")
+    BUCKET_IMAGENS = os.getenv("BUCKET_IMAGENS")
+    
+    def save_report_to_bucket(bucket_name, key, content):
+        """Salvar o relat\'{o}rio gerado no bucket S3"""
+        s3.put_object(Bucket=bucket_name, Key=key, Body=json.dumps(content))
+    
+    @bp.route('/generate-report/<analysis_key>', methods=['POST'])
+    def generate_report(analysis_key):
+        """Gera o relat\'{o}rio com base em uma an\'{a}lise."""
+        try:
+            # 1. Buscar a an\'{a}lise no bucket de an\'{a}lises
+            analysis_data = fetch_json_data(BUCKET_ANALISES, analysis_key)
+    
+            # 2. Obter a URL da imagem associada
+            image_id = analysis_data.get('image_details', {}).get('image_id', '')
+            image_url = f"https://{BUCKET_IMAGENS}.s3.amazonaws.com/{image_id}"
+    
+            # 3. Gerar o relat\'{o}rio com a OpenAI API
+            report = genAnalise(analysis_data, image_url)
+            print(report)
+            if report:
+                # 4. Salvar o relat\'{o}rio no bucket de relat\'{o}rios
+                report_key = f"report_{analysis_key.split('.')[0]}.json"
+                save_report_to_bucket(BUCKET_RELATORIO, report_key, json.loads(report))
+                return jsonify({"status": "success", "report_key": report_key}), 200
+            else:
+                return jsonify({"status": "error", "message": "Erro ao gerar relat\'{o}rio"}), 500
+        except Exception as e:
+            return jsonify({"status": "error", "message": str(e)}), 500
+    
+\end{lstlisting}
+
+Esta API(Listing 2) cria métodos para que a aplicação mobile possa interagir com os recursos em nuvem, buscando e salvando documentos relacionados ao usuário.
+
+\begin{lstlisting}[language=Python, caption={API para comunica\c{c}\~ao com AI generativa OpenAI}]
+
+from openai import OpenAI
+import json
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+
+def genAnalise(analysis_data, image_url):
+    print("Gera o relat\'{o}rio de invent\'{a}rio florestal usando a API do OpenAI.")
+    print(analysis_data)
+    try:
+        prompt = f"""
+        Crie um relat\'{o}rio de invent\'{a}rio florestal com base nos seguintes dados:
+
+        - Dados da an\'{a}lise (resumo): {json.dumps(analysis_data, ensure_ascii=False, indent=2)[:1000]}...
+        - Imagem associada: {image_url}
+
+        Siga o seguinte modelo:
+        - ID da An\'{a}lise
+        - Data da An\'{a}lise
+        - Localiza\c{c}\~ao (latitude e longitude)
+        - Resumo das identifica\c{c}\~oes (alta, m\'{e}dia e baixa confian\c{c}a)
+        - Detalhes dos pontos de identifica\c{c}\~ao (coordenadas e confian\c{c}a)
+        """
+
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {"role": "system", "content": "Voc\^{e} \'{e} um assistente especializado em cria\c{c}\~ao de relat\'{o}rios."},
+                {"role": "user", "content": prompt}]
+        )
+
+        if response and response.choices:
+            return response.choices[0].message.content
+        else:
+            raise ValueError("Resposta inv\'{a}lida ou vazia da OpenAI API.")
+    except Exception as e:
+        print(f"Erro ao gerar relat\'{o}rio: {e}")
+        return None
+    
+\end{lstlisting}
+    
+Esta segunda API (Listing 3) é utilizada para comunicação com a API generativa da OpenAi, para tornar os dados conseguidos através da análise, legíveis e de fácil compreensão pelo usuário.
+        
 
 \end{document}
