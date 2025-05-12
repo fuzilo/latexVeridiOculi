@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  11 NOV 2024 14:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  12 MAY 2025 13:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/fuzil/Desktop/Projeto Integrador 2024-2/latexVeridiOculi/f299-template-pi-paper/fatec-template.tex"
-(c:/Users/fuzil/Desktop/Projeto Integrador 2024-2/latexVeridiOculi/f299-template-pi-paper/fatec-template.tex
+**"d:/Fatec DSM/3AnoSemetre6/PI/latexVeridiOculi/f299-template-pi-paper/fatec-template.tex"
+(d:/Fatec DSM/3AnoSemetre6/PI/latexVeridiOculi/f299-template-pi-paper/fatec-template.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\fuzil\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -993,7 +993,32 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'brazilian'.
- (fatec-template.aux)
+ (fatec-template.aux
+
+LaTeX Warning: Label `Gráfico 3' multiply defined.
+
+
+LaTeX Warning: Label `Gráfico 3@cref' multiply defined.
+
+
+LaTeX Warning: Label `Gráfico 3' multiply defined.
+
+
+LaTeX Warning: Label `Gráfico 3@cref' multiply defined.
+
+
+LaTeX Warning: Label `Gráfico 3' multiply defined.
+
+
+LaTeX Warning: Label `Gráfico 3@cref' multiply defined.
+
+
+LaTeX Warning: Label `Gráfico 3' multiply defined.
+
+
+LaTeX Warning: Label `Gráfico 3@cref' multiply defined.
+
+)
 \openout1 = `fatec-template.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 39.
@@ -1188,14 +1213,18 @@ Package biblatex Warning: Biber reported the following issues
 (biblatex)                - online entry 'agenda2030' (fatec-article.bib): Invalid format '01 de junho de 2023' of date field 'urldate' - ignoring.
 
 
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'embrapa_agroenergia':
-(biblatex)                - online entry 'embrapa_agroenergia' (fatec-article.bib): Invalid format '02 de maio de 2024' of date field 'urldate' - ignoring.
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                (ALMEIDA
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
 
 
-Package biblatex Warning: Biber reported the following issues
-(biblatex)                with 'netflora':
-(biblatex)                - online entry 'netflora' (fatec-article.bib): Invalid format '02 de maio de 2024' of date field 'urldate' - ignoring.
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                2024)
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
 
 )
 Package biblatex Info: Reference section=0 on input line 39.
@@ -1206,6 +1235,8 @@ Package hyperref Info: Link coloring ON on input line 39.
 \openout4 = `fatec-template.out'.
 
 Package cleveref Info: loaded `brazilian' language definitions on input line 39.
+LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <14.4> not available
+(Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 39.
 Package cleveref Info: loaded `brazilian' language definitions on input line 39.
 Package cleveref Info: loaded `english' language definitions on input line 39.
 Package cleveref Info: loaded `brazilian' language definitions on input line 39.
@@ -1282,18 +1313,18 @@ Package cleveref Info: loaded `brazilian' language definitions on input line 39.
 Package cleveref Info: loaded `english' language definitions on input line 39.
 Package cleveref Info: loaded `brazilian' language definitions on input line 39.
  (Topicos/introducao.tex
-<./Illustrations/fatec.jpg, id=17, 401.5pt x 401.5pt>
+<./Illustrations/fatec.jpg, id=19, 401.5pt x 401.5pt>
 File: ./Illustrations/fatec.jpg Graphic file (type jpg)
 <use ./Illustrations/fatec.jpg>
-Package pdftex.def Info: ./Illustrations/fatec.jpg  used on input line 4.
+Package pdftex.def Info: ./Illustrations/fatec.jpg  used on input line 2.
 (pdftex.def)             Requested size: 99.58444pt x 99.58464pt.
  [1{C:/Users/fuzil/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}
 
  <./Illustrations/fatec.jpg>]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 9.
-) [2] (Topicos/objetivo.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 5.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 3.
+) (Topicos/objetivo.tex [2]
+LaTeX Font Info:    Trying to load font information for TS1+lmss on input line 4.
  (C:\Users\fuzil\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmss.fd
 File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1301,28 +1332,53 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) (Topicos/estadodaarte.tex [3{C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]) (Topicos/metodologia.tex [4]) (Topicos/resultados.tex [5]
-<Illustrations/grph-question2.png, id=114, 587.19376pt x 639.13782pt>
-File: Illustrations/grph-question2.png Graphic file (type png)
-<use Illustrations/grph-question2.png>
-Package pdftex.def Info: Illustrations/grph-question2.png  used on input line 11.
-(pdftex.def)             Requested size: 241.84843pt x 263.23799pt.
-<Illustrations/pizza2.png, id=116, 732.48656pt x 642.90187pt>
-File: Illustrations/pizza2.png Graphic file (type png)
-<use Illustrations/pizza2.png>
-Package pdftex.def Info: Illustrations/pizza2.png  used on input line 22.
-(pdftex.def)             Requested size: 314.40001pt x 275.95192pt.
+) (Topicos/estadodaarte.tex) (Topicos/metodologia.tex [3{C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+<Illustrations/tensorflow1.png, id=61, 813.98842pt x 362.19527pt>
+File: Illustrations/tensorflow1.png Graphic file (type png)
+<use Illustrations/tensorflow1.png>
+Package pdftex.def Info: Illustrations/tensorflow1.png  used on input line 33.
+(pdftex.def)             Requested size: 435.32422pt x 193.70346pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6 <./Illustrations/grph-question2.png>] [7 <./Illustrations/pizza2.png>]
-<Illustrations/Figure_1.png, id=135, 462.528pt x 346.896pt>
+[4]
+<Illustrations/tensorflow2.png, id=70, 784.82684pt x 313.59264pt>
+File: Illustrations/tensorflow2.png Graphic file (type png)
+<use Illustrations/tensorflow2.png>
+Package pdftex.def Info: Illustrations/tensorflow2.png  used on input line 51.
+(pdftex.def)             Requested size: 435.32422pt x 173.94069pt.
+ [5 <./Illustrations/tensorflow1.png> <./Illustrations/tensorflow2.png>]
+
+LaTeX Warning: Citation '(ALMEIDA' on page 6 undefined on input line 66.
+
+
+LaTeX Warning: Citation '2024)' on page 6 undefined on input line 66.
+
+<Illustrations/aplicacaomobile.png, id=79, 558.06125pt x 353.6526pt>
+File: Illustrations/aplicacaomobile.png Graphic file (type png)
+<use Illustrations/aplicacaomobile.png>
+Package pdftex.def Info: Illustrations/aplicacaomobile.png  used on input line 72.
+(pdftex.def)             Requested size: 386.95897pt x 245.23473pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (Topicos/resultados.tex [6]
+<Illustrations/tabela Acurácia.png, id=86, 679.59158pt x 135.24211pt>
+File: Illustrations/tabela Acurácia.png Graphic file (type png)
+<use Illustrations/tabela Acurácia.png>
+Package pdftex.def Info: Illustrations/tabela Acurácia.png  used on input line 9.
+(pdftex.def)             Requested size: 435.32422pt x 86.63512pt.
+<Illustrations/Figure_1.png, id=87, 462.528pt x 346.896pt>
 File: Illustrations/Figure_1.png Graphic file (type png)
 <use Illustrations/Figure_1.png>
-Package pdftex.def Info: Illustrations/Figure_1.png  used on input line 66.
+Package pdftex.def Info: Illustrations/Figure_1.png  used on input line 18.
 (pdftex.def)             Requested size: 338.58632pt x 253.95184pt.
-) (Topicos/conclusao.tex) [8 <./Illustrations/Figure_1.png>]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (Topicos/conclusao.tex) [7 <./Illustrations/aplicacaomobile.png> <./Illustrations/tabela Acurácia.png>]
 Package cleveref Info: loaded `brazilian' language definitions on input line 76.
 LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 76.
  (C:\Users\fuzil\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
@@ -1333,64 +1389,45 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
- [9]
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
-Package cleveref Info: loaded `brazilian' language definitions on input line 76.
- [10] (fatec-template.aux
-Package cleveref Info: loaded `brazilian' language definitions on input line 15.
-Package cleveref Info: loaded `brazilian' language definitions on input line 16.
+ [8 <./Illustrations/Figure_1.png>] [9] (fatec-template.aux
 Package cleveref Info: loaded `brazilian' language definitions on input line 17.
-Package cleveref Info: loaded `english' language definitions on input line 18.
+Package cleveref Info: loaded `brazilian' language definitions on input line 18.
 Package cleveref Info: loaded `brazilian' language definitions on input line 19.
-Package cleveref Info: loaded `brazilian' language definitions on input line 20.
+Package cleveref Info: loaded `english' language definitions on input line 20.
 Package cleveref Info: loaded `brazilian' language definitions on input line 21.
-Package cleveref Info: loaded `english' language definitions on input line 22.
+Package cleveref Info: loaded `brazilian' language definitions on input line 22.
 Package cleveref Info: loaded `brazilian' language definitions on input line 23.
-Package cleveref Info: loaded `brazilian' language definitions on input line 125.
-Package cleveref Info: loaded `brazilian' language definitions on input line 126.
-Package cleveref Info: loaded `brazilian' language definitions on input line 134.
-Package cleveref Info: loaded `brazilian' language definitions on input line 135.
-Package cleveref Info: loaded `brazilian' language definitions on input line 137.
-Package cleveref Info: loaded `brazilian' language definitions on input line 138.
-Package cleveref Info: loaded `brazilian' language definitions on input line 146.
-Package cleveref Info: loaded `brazilian' language definitions on input line 147.
-Package cleveref Info: loaded `brazilian' language definitions on input line 149.
-Package cleveref Info: loaded `brazilian' language definitions on input line 150.
-Package cleveref Info: loaded `brazilian' language definitions on input line 152.
-Package cleveref Info: loaded `brazilian' language definitions on input line 153.
+Package cleveref Info: loaded `english' language definitions on input line 24.
+Package cleveref Info: loaded `brazilian' language definitions on input line 25.
+Package cleveref Info: loaded `brazilian' language definitions on input line 84.
+Package cleveref Info: loaded `brazilian' language definitions on input line 85.
 )
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `fatec-template.out' has not changed.
-(rerunfilecheck)             Checksum: F6375376201B9393B07FA1E3C38C66BD;236.
+(rerunfilecheck)             Checksum: BABF180978844933C9F6F3941155E10F;236.
 Package logreq Info: Writing requests to 'fatec-template.run.xml'.
 \openout1 = `fatec-template.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 34153 strings out of 474486
- 620045 string characters out of 5743754
+ 34098 strings out of 474486
+ 618085 string characters out of 5743754
  1946542 words of memory out of 5000000
- 55778 multiletter control sequences out of 15000+600000
- 608207 words of font info for 146 fonts, out of 8000000 for 9000
+ 55725 multiletter control sequences out of 15000+600000
+ 610833 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,19n,131p,1904b,4558s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on fatec-template.pdf (10 pages, 396006 bytes).
+ 87i,19n,131p,1884b,4580s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbo10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso12.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on fatec-template.pdf (9 pages, 1442379 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 26149 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 154 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 26671 words of extra memory for PDF output out of 29859 (max. 10000000)
 
