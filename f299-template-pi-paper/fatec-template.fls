@@ -1,6 +1,6 @@
-PWD c:\Users\fuzil\Desktop\Projeto Integrador 2024-2\latexVeridiOculi\f299-template-pi-paper
+PWD d:\Fatec DSM\3AnoSemetre6\PI\latexVeridiOculi\f299-template-pi-paper
 INPUT C:\Users\fuzil\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\fuzil\Desktop\Projeto Integrador 2024-2\latexVeridiOculi\f299-template-pi-paper\fatec-template.tex
+INPUT d:\Fatec DSM\3AnoSemetre6\PI\latexVeridiOculi\f299-template-pi-paper\fatec-template.tex
 OUTPUT fatec-template.log
 INPUT C:\Users\fuzil\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\fuzil\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -441,20 +441,13 @@ INPUT .\Topicos\resultados.tex
 INPUT .\Topicos\resultados.tex
 INPUT .\Topicos\resultados.tex
 INPUT Topicos\resultados.tex
-INPUT .\Illustrations\grph-question2.png
-INPUT .\Illustrations\grph-question2.png
-INPUT .\Illustrations\grph-question2.png
-INPUT .\Illustrations\grph-question2.png
-INPUT .\Illustrations\grph-question2.png
-INPUT .\Illustrations\grph-question2.png
-INPUT .\Illustrations\grph-question2.png
-INPUT .\Illustrations\pizza2.png
-INPUT .\Illustrations\pizza2.png
-INPUT .\Illustrations\pizza2.png
-INPUT .\Illustrations\pizza2.png
-INPUT .\Illustrations\pizza2.png
-INPUT .\Illustrations\pizza2.png
-INPUT .\Illustrations\pizza2.png
+INPUT .\Illustrations\tabela Acurácia.png
+INPUT .\Illustrations\tabela Acurácia.png
+INPUT .\Illustrations\tabela Acurácia.png
+INPUT .\Illustrations\tabela Acurácia.png
+INPUT .\Illustrations\tabela Acurácia.png
+INPUT .\Illustrations\tabela Acurácia.png
+INPUT .\Illustrations\tabela Acurácia.png
 INPUT .\Illustrations\Figure_1.png
 INPUT .\Illustrations\Figure_1.png
 INPUT .\Illustrations\Figure_1.png

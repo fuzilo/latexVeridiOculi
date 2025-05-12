@@ -175,30 +175,6 @@
       \field{title}{State of the World’s Trees.}
       \field{year}{2021}
     \endentry
-    \entry{carneiro2023uso}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3947b06f1d803af5df93563b74ef24f2}{%
-           family={Carneiro},
-           familyi={C\bibinitperiod},
-           given={Letícia\bibnamedelimb da\bibnamedelima Silva},
-           giveni={L\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{3947b06f1d803af5df93563b74ef24f2}
-      \strng{fullhash}{3947b06f1d803af5df93563b74ef24f2}
-      \strng{bibnamehash}{3947b06f1d803af5df93563b74ef24f2}
-      \strng{authorbibnamehash}{3947b06f1d803af5df93563b74ef24f2}
-      \strng{authornamehash}{3947b06f1d803af5df93563b74ef24f2}
-      \strng{authorfullhash}{3947b06f1d803af5df93563b74ef24f2}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Uso de geotecnologias para mapeamento da peroba-rosa (Aspidosperma polyneuron Müll. Arg)}
-      \field{year}{2023}
-    \endentry
     \entry{carvalho2006embauba}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3c4487e3ab736abed819d07882cc4041}{%
@@ -274,68 +250,6 @@
       \field{title}{Metodologias ágeis baseadas em SCRUM: uma revisão sistemática da literatura}
       \field{year}{2022}
     \endentry
-    \entry{embrapa_agroenergia}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cee8ef063b947d1884e6f4c803dbcde7}{%
-           family={{Embrapa Agroenergia}},
-           familyi={E\bibinitperiod}}}%
-      }
-      \strng{namehash}{cee8ef063b947d1884e6f4c803dbcde7}
-      \strng{fullhash}{cee8ef063b947d1884e6f4c803dbcde7}
-      \strng{bibnamehash}{cee8ef063b947d1884e6f4c803dbcde7}
-      \strng{authorbibnamehash}{cee8ef063b947d1884e6f4c803dbcde7}
-      \strng{authornamehash}{cee8ef063b947d1884e6f4c803dbcde7}
-      \strng{authorfullhash}{cee8ef063b947d1884e6f4c803dbcde7}
-      \field{extraname}{1}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradate}{1}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Empresa Brasileira de Pesquisa Agropecuária. Parque Estação Biológica - PqEB, s/nº, Brasília, DF.}
-      \field{title}{{MacView}}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://sistemas.cnpae.embrapa.br/macview/inicial/
-      \endverb
-      \verb{url}
-      \verb https://sistemas.cnpae.embrapa.br/macview/inicial/
-      \endverb
-      \warn{\item online entry 'embrapa_agroenergia' (fatec-article.bib): Invalid format '02 de maio de 2024' of date field 'urldate' - ignoring}
-    \endentry
-    \entry{netflora}{online}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=cee8ef063b947d1884e6f4c803dbcde7}{%
-           family={{Embrapa Agroenergia}},
-           familyi={E\bibinitperiod}}}%
-      }
-      \strng{namehash}{cee8ef063b947d1884e6f4c803dbcde7}
-      \strng{fullhash}{cee8ef063b947d1884e6f4c803dbcde7}
-      \strng{bibnamehash}{cee8ef063b947d1884e6f4c803dbcde7}
-      \strng{authorbibnamehash}{cee8ef063b947d1884e6f4c803dbcde7}
-      \strng{authornamehash}{cee8ef063b947d1884e6f4c803dbcde7}
-      \strng{authorfullhash}{cee8ef063b947d1884e6f4c803dbcde7}
-      \field{extraname}{2}
-      \field{sortinit}{E}
-      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Empresa Brasileira de Pesquisa Agropecuária. Parque Estação Biológica - PqEB, s/nº, Brasília, DF.}
-      \field{title}{{Netflora: Guia prático para detecção de espécies florestais a partir de imagens de drones e inteligência artificial}}
-      \field{year}{2024}
-      \verb{urlraw}
-      \verb https://github.com/NetFlora/Netflora
-      \endverb
-      \verb{url}
-      \verb https://github.com/NetFlora/Netflora
-      \endverb
-      \warn{\item online entry 'netflora' (fatec-article.bib): Invalid format '02 de maio de 2024' of date field 'urldate' - ignoring}
-    \endentry
     \entry{mapbiomas}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=aa3452548691c58839a834d9ccd832f9}{%
@@ -362,43 +276,6 @@
       \field{title}{{Mapeamento Anual de Cobertura e Uso da Terra na Mata Atlântica - Coleção 6}}
       \field{type}{techreport}
       \field{year}{2021}
-    \endentry
-    \entry{mcculloch1943logical}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=1ccb147b2b2165266e6ce5900193e687}{%
-           family={McCulloch},
-           familyi={M\bibinitperiod},
-           given={Warren\bibnamedelima S},
-           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c5a56e799cdf785e814246c091d36e73}{%
-           family={Pitts},
-           familyi={P\bibinitperiod},
-           given={Walter},
-           giveni={W\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Springer}%
-      }
-      \strng{namehash}{816477c5724040789c6fe02e3968dc62}
-      \strng{fullhash}{816477c5724040789c6fe02e3968dc62}
-      \strng{bibnamehash}{816477c5724040789c6fe02e3968dc62}
-      \strng{authorbibnamehash}{816477c5724040789c6fe02e3968dc62}
-      \strng{authornamehash}{816477c5724040789c6fe02e3968dc62}
-      \strng{authorfullhash}{816477c5724040789c6fe02e3968dc62}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{The bulletin of mathematical biophysics}
-      \field{title}{A logical calculus of the ideas immanent in nervous activity}
-      \field{volume}{5}
-      \field{year}{1943}
-      \field{pages}{115\bibrangedash 133}
-      \range{pages}{19}
     \endentry
     \entry{MDSJavaScript}{article}{}
       \name{author}{1}{}{%
@@ -475,78 +352,6 @@
       \field{title}{{Atlas dos remanescentes florestais da Mata Atlântica}}
       \field{type}{techreport}
       \field{year}{2022}
-    \endentry
-    \entry{de2020plantai}{inproceedings}{}
-      \name{author}{7}{}{%
-        {{un=0,uniquepart=base,hash=05264dc5bb470075af5a3ad4c997773e}{%
-           family={Souza},
-           familyi={S\bibinitperiod},
-           given={Felipe},
-           giveni={F\bibinitperiod},
-           givenun=0,
-           prefix={de},
-           prefixi={d\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=5a56f73cf40201a2367183f86701fe51}{%
-           family={Bertoti},
-           familyi={B\bibinitperiod},
-           given={Giuliano},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fc2b8e527dbae328239c2e37b4865e04}{%
-           family={Santos},
-           familyi={S\bibinitperiod},
-           given={Rafael},
-           giveni={R\bibinitperiod},
-           givenun=0,
-           prefix={dos},
-           prefixi={d\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=f13cbde3b92ddfd58c3eb0d83601c23b}{%
-           family={Muralikrishna},
-           familyi={M\bibinitperiod},
-           given={Amita},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=692484156d18058b7071c9dbf3ca29ae}{%
-           family={Carlos},
-           familyi={C\bibinitperiod},
-           given={Felipe},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=412117f00240e0d637ba0340a320614e}{%
-           family={Almeida},
-           familyi={A\bibinitperiod},
-           given={Adriano},
-           giveni={A\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=4833eb5bfe50e51bb1480b2b5465ccf4}{%
-           family={Neto},
-           familyi={N\bibinitperiod},
-           given={Helvecio\bibnamedelima L},
-           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{organization}{1}{%
-        {SBC}%
-      }
-      \strng{namehash}{1d467454218b2402563daffcd115f79b}
-      \strng{fullhash}{24f1d7ae198329e6036b59ca1102fe2b}
-      \strng{bibnamehash}{1d467454218b2402563daffcd115f79b}
-      \strng{authorbibnamehash}{1d467454218b2402563daffcd115f79b}
-      \strng{authornamehash}{1d467454218b2402563daffcd115f79b}
-      \strng{authorfullhash}{24f1d7ae198329e6036b59ca1102fe2b}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Anais do XI Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais}
-      \field{title}{PlantAI: Aplicativo de classificação e localização de plantas em risco de extinção na Mata Atlântica}
-      \field{year}{2020}
-      \field{pages}{1\bibrangedash 10}
-      \range{pages}{10}
     \endentry
     \entry{tensorflow_relu_activation}{misc}{}
       \name{author}{1}{}{%
