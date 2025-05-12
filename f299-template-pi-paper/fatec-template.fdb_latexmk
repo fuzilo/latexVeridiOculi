@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber fatec-template"] 1747044983.54756 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1747044993.92537 0
+["biber fatec-template"] 1747044983.54756 "fatec-template.bcf" "fatec-template.bbl" "fatec-template" 1747065976.09015 0
   "fatec-article.bib" 1747043788 15543 dc98ef995df3805d1623f4759b1373ca ""
-  "fatec-template.bcf" 1747044993 113979 61eb9025b19f31e32038f31ba0b11efc "pdflatex"
+  "fatec-template.bcf" 1747065975 113979 61eb9025b19f31e32038f31ba0b11efc "pdflatex"
   (generated)
   "fatec-template.bbl"
   "fatec-template.blg"
   (rewritten before read)
-["pdflatex"] 1747044989.91817 "d:/Fatec DSM/3AnoSemetre6/PI/latexVeridiOculi/f299-template-pi-paper/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1747044993.92613 0
+["pdflatex"] 1747065972.09815 "d:/Fatec DSM/3AnoSemetre6/PI/latexVeridiOculi/f299-template-pi-paper/fatec-template.tex" "fatec-template.pdf" "fatec-template" 1747065976.09098 0
   "C:/Users/fuzil/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731947791 122199 f0a029dcadf437d1491ad2875c164ac4 ""
   "C:/Users/fuzil/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1731316536 24225047 6497c051614503ff92f4076afdbb131b ""
   "C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -199,14 +199,14 @@
   "Topicos/metodologia.tex" 1747044978 9569 f73d2ebd39fb5ba74d864ed557c306ec ""
   "Topicos/objetivo.tex" 1747009444 869 90184497c2b543afb4253025fb1de129 ""
   "Topicos/resultados.tex" 1747043406 1812 5ccd859c49b64f3f57870ca1446af7df ""
-  "d:/Fatec DSM/3AnoSemetre6/PI/latexVeridiOculi/f299-template-pi-paper/fatec-template.tex" 1746842210 5124 d43da194ea5a155b8a50a54bd06b2b1d ""
+  "d:/Fatec DSM/3AnoSemetre6/PI/latexVeridiOculi/f299-template-pi-paper/fatec-template.tex" 1747065963 4941 892d52faf57b654d801e16d69ba2352d ""
   "fatec-article.bib" 1747043788 15543 dc98ef995df3805d1623f4759b1373ca ""
   "fatec-article.sty" 1747016458 46801 4eaeb04e32a91cfd599c0bf4e0fff24c ""
-  "fatec-template.aux" 1747044993 5272 ade390a423360ab6f1fb9ccf4b6cac65 "pdflatex"
+  "fatec-template.aux" 1747065975 5272 b3e58fceabae066cf390bed3747fb68d "pdflatex"
   "fatec-template.bbl" 1747044985 12075 5be43600035c6c9235b3e33595c2b816 "biber fatec-template"
-  "fatec-template.out" 1747044993 236 babf180978844933c9f6f3941155e10f "pdflatex"
-  "fatec-template.run.xml" 1747044993 2617 4d46f5d56bcd78c60e0607a558d03956 "pdflatex"
-  "fatec-template.tex" 1746842210 5124 d43da194ea5a155b8a50a54bd06b2b1d ""
+  "fatec-template.out" 1747065975 236 babf180978844933c9f6f3941155e10f "pdflatex"
+  "fatec-template.run.xml" 1747065975 2617 4d46f5d56bcd78c60e0607a558d03956 "pdflatex"
+  "fatec-template.tex" 1747065963 4941 892d52faf57b654d801e16d69ba2352d ""
   (generated)
   "fatec-template.aux"
   "fatec-template.bcf"
