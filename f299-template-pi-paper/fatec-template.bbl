@@ -47,112 +47,6 @@
       \endverb
       \warn{\item online entry 'agenda2030' (fatec-article.bib): Invalid format '01 de junho de 2023' of date field 'urldate' - ignoring}
     \endentry
-    \entry{AWSNoSQL}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=3eb2c1a57a8160029f036e3dcbf84bf1}{%
-           family={{Amazon Web Services}},
-           familyi={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
-      \strng{fullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
-      \strng{bibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
-      \strng{authorbibnamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
-      \strng{authornamehash}{3eb2c1a57a8160029f036e3dcbf84bf1}
-      \strng{authorfullhash}{3eb2c1a57a8160029f036e3dcbf84bf1}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Web site: \url {https://aws.amazon.com/pt/nosql}}
-      \field{note}{Acessado em 5 de Outubro de 2023}
-      \field{title}{{AWS NoSQL}}
-      \field{year}{2023}
-    \endentry
-    \entry{de2021avaliaccao}{article}{}
-      \name{author}{7}{}{%
-        {{un=0,uniquepart=base,hash=7bb7af953e69372b8ef724225a76a81e}{%
-           family={Andrade},
-           familyi={A\bibinitperiod},
-           given={Beatriz\bibnamedelimb Rayana\bibnamedelima Damásio},
-           giveni={B\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim D\bibinitperiod},
-           givenun=0,
-           prefix={de},
-           prefixi={d\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=9bc0ea9cc8747bfbfeb03d2b3f9840f1}{%
-           family={Costa\bibnamedelima Silva},
-           familyi={C\bibinitperiod\bibinitdelim S\bibinitperiod},
-           given={Athila},
-           giveni={A\bibinitperiod},
-           givenun=0,
-           prefix={da},
-           prefixi={d\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=870abfccfbfa360e6335bb0b4d5d5c8d}{%
-           family={Souza},
-           familyi={S\bibinitperiod},
-           given={Jaqueline\bibnamedelima Barbosa},
-           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0,
-           prefix={de},
-           prefixi={d\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=ecf74790fddf26525064aa7dec722d35}{%
-           family={Silva},
-           familyi={S\bibinitperiod},
-           given={Luana\bibnamedelima Bastos},
-           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0,
-           prefix={da},
-           prefixi={d\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=f4c17bb7ed4ce52d7aefa6c55e7528ba}{%
-           family={França\bibnamedelima Silva},
-           familyi={F\bibinitperiod\bibinitdelim S\bibinitperiod},
-           given={Mayara\bibnamedelima Paes},
-           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0,
-           prefix={de},
-           prefixi={d\bibinitperiod},
-           prefixun=0}}%
-        {{un=0,uniquepart=base,hash=09ae17dce1d079c38515dd9e39a97731}{%
-           family={Alves},
-           familyi={A\bibinitperiod},
-           given={Rayssa\bibnamedelima Rosendo},
-           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=27a46df034a94430d8f368af1a378162}{%
-           family={Silva},
-           familyi={S\bibinitperiod},
-           given={Maria\bibnamedelimb Luiza\bibnamedelimb Ribeiro\bibnamedelima Bastos},
-           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim B\bibinitperiod},
-           givenun=0,
-           prefix={da},
-           prefixi={d\bibinitperiod},
-           prefixun=0}}%
-      }
-      \strng{namehash}{249fee9c9614e540d4e7fbb57510187f}
-      \strng{fullhash}{40fe79ff796c4198bf9cd044361472db}
-      \strng{bibnamehash}{249fee9c9614e540d4e7fbb57510187f}
-      \strng{authorbibnamehash}{249fee9c9614e540d4e7fbb57510187f}
-      \strng{authornamehash}{249fee9c9614e540d4e7fbb57510187f}
-      \strng{authorfullhash}{40fe79ff796c4198bf9cd044361472db}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Research, Society and Development}
-      \field{number}{10}
-      \field{title}{Avaliação do potencial antimicrobiano do extrato Etanólico de Folhas da Cecropia pachystachya t.(Embaúba)}
-      \field{volume}{10}
-      \field{year}{2021}
-      \field{pages}{e85101018679\bibrangedash e85101018679}
-      \range{pages}{-1}
-    \endentry
     \entry{bgci}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=b4fefca7e546391b1ff1773807b7a5f5}{%
@@ -174,6 +68,30 @@
       \field{journaltitle}{Botanic Gardens Conservation International}
       \field{title}{State of the World’s Trees.}
       \field{year}{2021}
+    \endentry
+    \entry{carneiro2023uso}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3947b06f1d803af5df93563b74ef24f2}{%
+           family={Carneiro},
+           familyi={C\bibinitperiod},
+           given={Letícia\bibnamedelimb da\bibnamedelima Silva},
+           giveni={L\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3947b06f1d803af5df93563b74ef24f2}
+      \strng{fullhash}{3947b06f1d803af5df93563b74ef24f2}
+      \strng{bibnamehash}{3947b06f1d803af5df93563b74ef24f2}
+      \strng{authorbibnamehash}{3947b06f1d803af5df93563b74ef24f2}
+      \strng{authornamehash}{3947b06f1d803af5df93563b74ef24f2}
+      \strng{authorfullhash}{3947b06f1d803af5df93563b74ef24f2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Uso de geotecnologias para mapeamento da peroba-rosa (Aspidosperma polyneuron Müll. Arg)}
+      \field{year}{2023}
     \endentry
     \entry{carvalho2006embauba}{article}{}
       \name{author}{1}{}{%
@@ -202,54 +120,6 @@
       \field{title}{Embaúba: Cecropia pachystachya.}
       \field{year}{2006}
     \endentry
-    \entry{costa2022metodologias}{article}{}
-      \name{author}{5}{}{%
-        {{un=0,uniquepart=base,hash=704f2ba76a7e190877c738d1952c39c3}{%
-           family={Costa},
-           familyi={C\bibinitperiod},
-           given={Pedro\bibnamedelimb Paulo\bibnamedelima Santana},
-           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=ecac3b0ac9fec671bf47aaa936036359}{%
-           family={Donato},
-           familyi={D\bibinitperiod},
-           given={Mariana},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=79a90269458f27cb5fba693e84c41d13}{%
-           family={Marins},
-           familyi={M\bibinitperiod},
-           given={Joyce},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=85ebf09c801bd9f35e45d6c1ed7695af}{%
-           family={Cunha},
-           familyi={C\bibinitperiod},
-           given={Vanice},
-           giveni={V\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=dd20b38279444dffde6c51c8e4eaaa07}{%
-           family={Reis},
-           familyi={R\bibinitperiod},
-           given={Saulo},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{51590f3facb821d7567fe7cd20eff805}
-      \strng{fullhash}{899922de83be78d000ff5793e52a8651}
-      \strng{bibnamehash}{51590f3facb821d7567fe7cd20eff805}
-      \strng{authorbibnamehash}{51590f3facb821d7567fe7cd20eff805}
-      \strng{authornamehash}{51590f3facb821d7567fe7cd20eff805}
-      \strng{authorfullhash}{899922de83be78d000ff5793e52a8651}
-      \field{sortinit}{C}
-      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Metodologias ágeis baseadas em SCRUM: uma revisão sistemática da literatura}
-      \field{year}{2022}
-    \endentry
     \entry{mapbiomas}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=aa3452548691c58839a834d9ccd832f9}{%
@@ -277,53 +147,42 @@
       \field{type}{techreport}
       \field{year}{2021}
     \endentry
-    \entry{MDSJavaScript}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=fd2e1bf0766fdefa8b13261277cd4f7e}{%
-           family={{Mozilla Developer Network}},
-           familyi={M\bibinitperiod}}}%
+    \entry{mcculloch1943logical}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1ccb147b2b2165266e6ce5900193e687}{%
+           family={McCulloch},
+           familyi={M\bibinitperiod},
+           given={Warren\bibnamedelima S},
+           giveni={W\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5a56e799cdf785e814246c091d36e73}{%
+           family={Pitts},
+           familyi={P\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
       }
-      \list{organization}{1}{%
-        {Mozilla Developer Network}%
+      \list{publisher}{1}{%
+        {Springer}%
       }
-      \strng{namehash}{fd2e1bf0766fdefa8b13261277cd4f7e}
-      \strng{fullhash}{fd2e1bf0766fdefa8b13261277cd4f7e}
-      \strng{bibnamehash}{fd2e1bf0766fdefa8b13261277cd4f7e}
-      \strng{authorbibnamehash}{fd2e1bf0766fdefa8b13261277cd4f7e}
-      \strng{authornamehash}{fd2e1bf0766fdefa8b13261277cd4f7e}
-      \strng{authorfullhash}{fd2e1bf0766fdefa8b13261277cd4f7e}
+      \strng{namehash}{816477c5724040789c6fe02e3968dc62}
+      \strng{fullhash}{816477c5724040789c6fe02e3968dc62}
+      \strng{bibnamehash}{816477c5724040789c6fe02e3968dc62}
+      \strng{authorbibnamehash}{816477c5724040789c6fe02e3968dc62}
+      \strng{authornamehash}{816477c5724040789c6fe02e3968dc62}
+      \strng{authorfullhash}{816477c5724040789c6fe02e3968dc62}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Web site: \url {https://developer.mozilla.org/pt-BR/docs/Web/JavaScript}}
-      \field{note}{Acessado em 5 de outubro de 2023}
-      \field{title}{Documentação do JavaScript na MDN}
-      \field{year}{2023}
-    \endentry
-    \entry{flask-docs}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=4441b404549896eed56d1c0d79733b99}{%
-           family={{Pallets Projects}},
-           familyi={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{4441b404549896eed56d1c0d79733b99}
-      \strng{fullhash}{4441b404549896eed56d1c0d79733b99}
-      \strng{bibnamehash}{4441b404549896eed56d1c0d79733b99}
-      \strng{authorbibnamehash}{4441b404549896eed56d1c0d79733b99}
-      \strng{authornamehash}{4441b404549896eed56d1c0d79733b99}
-      \strng{authorfullhash}{4441b404549896eed56d1c0d79733b99}
-      \field{sortinit}{P}
-      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{\url{https://flask.palletsprojects.com/en/stable/}. Accessed: 2024-05-04}
-      \field{title}{Flask Documentation}
-      \field{year}{2024}
+      \field{journaltitle}{The bulletin of mathematical biophysics}
+      \field{title}{A logical calculus of the ideas immanent in nervous activity}
+      \field{volume}{5}
+      \field{year}{1943}
+      \field{pages}{115\bibrangedash 133}
+      \range{pages}{19}
     \endentry
     \entry{atlas-mata-atlantica}{report}{}
       \name{author}{1}{}{%
@@ -353,97 +212,81 @@
       \field{type}{techreport}
       \field{year}{2022}
     \endentry
-    \entry{tensorflow_relu_activation}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=681f5392dcaa37e63cbdd84d7a51485a}{%
-           family={{TensorFlow Documentation}},
-           familyi={T\bibinitperiod}}}%
+    \entry{de2020plantai}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=05264dc5bb470075af5a3ad4c997773e}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Felipe},
+           giveni={F\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=5a56f73cf40201a2367183f86701fe51}{%
+           family={Bertoti},
+           familyi={B\bibinitperiod},
+           given={Giuliano},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc2b8e527dbae328239c2e37b4865e04}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod},
+           givenun=0,
+           prefix={dos},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=f13cbde3b92ddfd58c3eb0d83601c23b}{%
+           family={Muralikrishna},
+           familyi={M\bibinitperiod},
+           given={Amita},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=692484156d18058b7071c9dbf3ca29ae}{%
+           family={Carlos},
+           familyi={C\bibinitperiod},
+           given={Felipe},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=412117f00240e0d637ba0340a320614e}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Adriano},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4833eb5bfe50e51bb1480b2b5465ccf4}{%
+           family={Neto},
+           familyi={N\bibinitperiod},
+           given={Helvecio\bibnamedelima L},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
       }
-      \strng{namehash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{fullhash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{bibnamehash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{authorbibnamehash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{authornamehash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{authorfullhash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \field{extraname}{1}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{extradate}{1}
+      \list{organization}{1}{%
+        {SBC}%
+      }
+      \strng{namehash}{1d467454218b2402563daffcd115f79b}
+      \strng{fullhash}{24f1d7ae198329e6036b59ca1102fe2b}
+      \strng{bibnamehash}{1d467454218b2402563daffcd115f79b}
+      \strng{authorbibnamehash}{1d467454218b2402563daffcd115f79b}
+      \strng{authornamehash}{1d467454218b2402563daffcd115f79b}
+      \strng{authorfullhash}{24f1d7ae198329e6036b59ca1102fe2b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2023-11-11}
-      \field{title}{tf.keras.activations.relu}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://www.tensorflow.org/api_docs/python/tf/keras/activations/relu
-      \endverb
-      \verb{url}
-      \verb https://www.tensorflow.org/api_docs/python/tf/keras/activations/relu
-      \endverb
-    \endentry
-    \entry{tensorflow_sparse_categorical_crossentropy}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=681f5392dcaa37e63cbdd84d7a51485a}{%
-           family={{TensorFlow Documentation}},
-           familyi={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{fullhash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{bibnamehash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{authorbibnamehash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{authornamehash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{authorfullhash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \field{extraname}{2}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{extradate}{2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2023-11-11}
-      \field{title}{tf.keras.losses.SparseCategoricalCrossentropy}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://www.tensorflow.org/api_docs/python/tf/keras/losses/SparseCategoricalCrossentropy
-      \endverb
-      \verb{url}
-      \verb https://www.tensorflow.org/api_docs/python/tf/keras/losses/SparseCategoricalCrossentropy
-      \endverb
-    \endentry
-    \entry{tensorflow_training_loop_from_scratch}{misc}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=681f5392dcaa37e63cbdd84d7a51485a}{%
-           family={{TensorFlow Documentation}},
-           familyi={T\bibinitperiod}}}%
-      }
-      \strng{namehash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{fullhash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{bibnamehash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{authorbibnamehash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{authornamehash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \strng{authorfullhash}{681f5392dcaa37e63cbdd84d7a51485a}
-      \field{extraname}{3}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
-      \field{extradate}{3}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{note}{Accessed: 2023-11-11}
-      \field{title}{Writing a training loop from scratch}
-      \field{year}{2023}
-      \verb{urlraw}
-      \verb https://www.tensorflow.org/guide/keras/writing_a_training_loop_from_scratch?hl=pt-br
-      \endverb
-      \verb{url}
-      \verb https://www.tensorflow.org/guide/keras/writing_a_training_loop_from_scratch?hl=pt-br
-      \endverb
+      \field{booktitle}{Anais do XI Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais}
+      \field{title}{PlantAI: Aplicativo de classificação e localização de plantas em risco de extinção na Mata Atlântica}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
     \endentry
   \enddatalist
+  \missing{(ALMEIDA}
+  \missing{2024)}
 \endrefsection
 \endinput
 

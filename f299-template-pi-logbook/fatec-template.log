@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  18 NOV 2024 16:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.11.11)  12 MAY 2025 07:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/fuzil/Desktop/Projeto Integrador 2024-2/latexVeridiOculi/f299-template-pi-logbook/fatec-template.tex"
-(c:/Users/fuzil/Desktop/Projeto Integrador 2024-2/latexVeridiOculi/f299-template-pi-logbook/fatec-template.tex
+**"d:/Fatec DSM/3AnoSemetre6/PI/latexVeridiOculi/f299-template-pi-logbook/fatec-template.tex"
+(d:/Fatec DSM/3AnoSemetre6/PI/latexVeridiOculi/f299-template-pi-logbook/fatec-template.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\fuzil\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -1273,17 +1273,12 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmss' (encoding: TS1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-Overfull \hbox (45.69405pt too wide) in paragraph at lines 52--72
- [][] 
- []
-
 <Logos/mobile01.jpeg, id=23, 902.37125pt x 1604.99625pt>
 File: Logos/mobile01.jpeg Graphic file (type jpg)
 <use Logos/mobile01.jpeg>
-Package pdftex.def Info: Logos/mobile01.jpeg  used on input line 77.
+Package pdftex.def Info: Logos/mobile01.jpeg  used on input line 75.
 (pdftex.def)             Requested size: 219.37297pt x 390.17848pt.
-[2{C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] [3 <./Logos/mobile01.jpeg>] (fatec-template.aux
+ [2{C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] [3 <./Logos/mobile01.jpeg>] (fatec-template.aux
 Package cleveref Info: loaded `brazilian' language definitions on input line 9.
 Package cleveref Info: loaded `brazilian' language definitions on input line 10.
 Package cleveref Info: loaded `brazilian' language definitions on input line 11.
@@ -1302,14 +1297,14 @@ Package logreq Info: Writing requests to 'fatec-template.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  33450 strings out of 474486
- 605368 string characters out of 5743754
- 1939542 words of memory out of 5000000
+ 605148 string characters out of 5743754
+ 1937542 words of memory out of 5000000
  55229 multiletter control sequences out of 15000+600000
  598912 words of font info for 96 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,19n,131p,1299b,4466s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,19n,131p,1279b,4466s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb><C:/Users/fuzil/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on fatec-template.pdf (3 pages, 263304 bytes).
+Output written on fatec-template.pdf (3 pages, 262263 bytes).
 PDF statistics:
  61 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)

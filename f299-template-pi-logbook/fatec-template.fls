@@ -1,6 +1,6 @@
-PWD c:\Users\fuzil\Desktop\Projeto Integrador 2024-2\latexVeridiOculi\f299-template-pi-logbook
+PWD d:\Fatec DSM\3AnoSemetre6\PI\latexVeridiOculi\f299-template-pi-logbook
 INPUT C:\Users\fuzil\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\fuzil\Desktop\Projeto Integrador 2024-2\latexVeridiOculi\f299-template-pi-logbook\fatec-template.tex
+INPUT d:\Fatec DSM\3AnoSemetre6\PI\latexVeridiOculi\f299-template-pi-logbook\fatec-template.tex
 OUTPUT fatec-template.log
 INPUT C:\Users\fuzil\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\fuzil\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

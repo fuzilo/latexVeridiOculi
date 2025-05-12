@@ -2456,20 +2456,13 @@
     <bcf:citekey order="1" intorder="1">bgci</bcf:citekey>
     <bcf:citekey order="2" intorder="1">atlas-mata-atlantica</bcf:citekey>
     <bcf:citekey order="3" intorder="1">mapbiomas</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">bgci</bcf:citekey>
-    <bcf:citekey order="5" intorder="1">agenda2030</bcf:citekey>
-    <bcf:citekey order="6" intorder="1">carvalho2006embauba</bcf:citekey>
-    <bcf:citekey order="7" intorder="1">carvalho2006embauba</bcf:citekey>
-    <bcf:citekey order="8" intorder="1">de2021avaliaccao</bcf:citekey>
-    <bcf:citekey order="9" intorder="1">AWSNoSQL</bcf:citekey>
-    <bcf:citekey order="10" intorder="1">MDSJavaScript</bcf:citekey>
-    <bcf:citekey order="11" intorder="1">flask-docs</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">costa2022metodologias</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">costa2022metodologias</bcf:citekey>
-    <bcf:citekey order="14" intorder="1">tensorflow_training_loop_from_scratch</bcf:citekey>
-    <bcf:citekey order="15" intorder="1">tensorflow_relu_activation</bcf:citekey>
-    <bcf:citekey order="16" intorder="1">tensorflow_sparse_categorical_crossentropy</bcf:citekey>
-    <bcf:citekey order="17" intorder="1">tensorflow_training_loop_from_scratch</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">agenda2030</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">carvalho2006embauba</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">de2020plantai</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">carneiro2023uso</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">mcculloch1943logical</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">(ALMEIDA</bcf:citekey>
+    <bcf:citekey order="9" intorder="2">2024)</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
